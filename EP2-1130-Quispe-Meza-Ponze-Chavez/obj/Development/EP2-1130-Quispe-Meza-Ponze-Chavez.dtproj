@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LAPTOP-27GTJ617</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0+q/Qn5sekGH5sraFiccHQAAAAACAAAAAAAQZgAAAAEAACAAAAAR3S4NmLA/qcd6dX/JWplGtDKAC0jPGih7/UN1wf+2RwAAAAAOgAAAAAIAACAAAADvD7oT7VXeQ1aZ5/FhGt/322QQIIcsDtOCaAlmvdWc/JAAAADje7swleESP+PePW2o8G8Z/L+QbOG5Gchnq1kloKJvDB4siKCiS6bpLzDIXCdAF9cP7fXU5cM2RIsHlqlVTw7BPmm24u+zyVqi4dI+tm+6376//MwMHl4yrpJWxRUBXmsBd8wYKNDBuEBoQUwrFgOjnaEJuGtfbHTRn8jUUX0BRWsQB+z2FAoQs34OFtgdU1ZAAAAA9RHDoZTaFiROjtGnKX7TWUGxtUXcfSaReOGJoQ6cw22mbxazEBldnRWtR07pQv0MQVW5AWPLc7ifq0S5I+15Ig==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0+q/Qn5sekGH5sraFiccHQAAAAACAAAAAAAQZgAAAAEAACAAAABuEY2RKFvlmuyCDJn5tzGQaHTJdoUXhpEPelxwv52VbgAAAAAOgAAAAAIAACAAAABN+PIZHN5xhzydZjK1mXoVpP10DIqnQ3cHK8jNBEccYpAAAAAGQAWUNyyVbgXHm9/Gupa9yU5c4NBZOlbcvlbOae9432N0wSvk9Jig6+7aMPaAJ7YY/nvk0GfbKEOAOM6wA1yypTZFDSjNCW3wfqjLh5yoEvLm9mYLzQBQD5HCo76ISOytS49fLH48t0EbmXFzOFPA8xZT37c7wJhkWeKGAyejkP5Qt3V0NYrpspFrwUYx3e1AAAAA0urTW0IaJg/xE6Q/nEila9sVIvKlXS2UTk/JG1BvEJyRdExw2MIqNiSJIlQhnHXKW5s7fRNiOn2759lyUsll3g==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">2</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{BA1835D0-C15D-4F15-A1D4-BFBC6EEBBF4B}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{A4937965-3521-43F9-AA3D-DAFD034CAA27}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -521,13 +521,7 @@
         <LinkedAzureSSISIR />
         <LinkedAzureStorage />
         <RemoteExecutionFolder />
-        <ParameterConfigurationValues>
-          <ConfigurationSetting>
-            <Id>LastModifiedTime</Id>
-            <Name>LastModifiedTime</Name>
-            <Value xsi:type="xsd:dateTime">2022-10-08T00:18:00.8204581Z</Value>
-          </ConfigurationSetting>
-        </ParameterConfigurationValues>
+        <ParameterConfigurationValues />
       </Options>
     </Configuration>
   </Configurations>
